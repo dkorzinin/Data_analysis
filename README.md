@@ -1,4 +1,4 @@
 # Data analysis
 ---
-Theory:
-[a relative link](other_file.md)
+Theory:  
+[Central Limit Theorem](clt_in_action.ipynb)
