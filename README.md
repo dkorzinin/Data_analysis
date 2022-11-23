@@ -1,3 +1,4 @@
-# Data-Analysis
-Привет, меня зовут Дмитрий
+# Data analysis
+---
+Theory:
 [a relative link](other_file.md)
