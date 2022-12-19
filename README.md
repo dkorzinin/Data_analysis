@@ -1,5 +1,5 @@
 # Data analysis
 ---
-Theory:  
-[central limit theorem](clt_in_action.ipynb)  
-[t-distribution](t_distribution_ru.ipynb)
+Теория:  
+[центральная предельная теорема](clt_in_action_ru.ipynb)  
+[t-распределение](t_distribution_ru.ipynb)
