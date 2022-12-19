@@ -2,4 +2,4 @@
 ---
 Theory:  
 [central limit theorem](clt_in_action.ipynb)  
-[t-distribution](t_distribution.ipynb)
+[t-distribution](t_distribution_ru.ipynb)
